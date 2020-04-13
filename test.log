@@ -1,0 +1,17 @@
+##teamcity[enteredTheMatrix timestamp='2019-03-24T16:58:46.241']
+Launching pytest with arguments C:/PycharmProjects/homework_pdt2/orm_print.py in C:\PycharmProjects\homework_pdt2
+
+============================= test session starts =============================
+platform win32 -- Python 3.7.2, pytest-4.3.1, py-1.8.0, pluggy-0.9.0
+rootdir: C:\PycharmProjects\homework_pdt2, inifile:
+##teamcity[testCount timestamp='2019-03-24T16:58:46.856' count='1']
+collected 1 item
+
+orm_print.py ##teamcity[testSuiteStarted timestamp='2019-03-24T16:58:46.859' locationHint='python<C:\PycharmProjects\homework_pdt2>://orm_print' name='orm_print' nodeId='1' parentNodeId='0']
+##teamcity[testStarted timestamp='2019-03-24T16:58:46.859' captureStandardOutput='false' locationHint='python<C:\PycharmProjects\homework_pdt2>://orm_print.test_print' metainfo='test_print' name='test_print' nodeId='2' parentNodeId='1']
+.##teamcity[testStdOut timestamp='2019-03-24T16:59:01.251' flowId='orm_print.test_print' locationHint='python<C:\PycharmProjects\homework_pdt2>://orm_print.test_print' name='test_print' nodeId='2' out='279|n2543: last_namems first_namexUV|n2528: last_nametR |n2549: last_name d X |n2523: last_nameu2AR  first_name 9 MBo |n4|n|[2543: last_namems first_namexUV, 2528: last_nametR , 2549: last_name d X , 2523: last_nameu2AR  first_name 9 MBo |]|n|[2549: last_name d X , 2543: last_namems first_namexUV, 2528: last_nametR , 2523: last_nameu2AR  first_name 9 MBo |]|n' parentNodeId='1']
+##teamcity[testFinished timestamp='2019-03-24T16:59:01.251' duration='139' locationHint='python<C:\PycharmProjects\homework_pdt2>://orm_print.test_print' name='test_print' nodeId='2' parentNodeId='1']
+                                                           [100%]
+
+========================== 1 passed in 18.85 seconds ==========================
+##teamcity[testSuiteFinished timestamp='2019-03-24T16:59:05.659' locationHint='python<C:\PycharmProjects\homework_pdt2>://orm_print' name='orm_print' nodeId='1' parentNodeId='0']

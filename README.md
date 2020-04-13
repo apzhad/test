@@ -1,1 +1,1 @@
-# test
+# homework for PDT-2 Python training
